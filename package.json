@@ -1,0 +1,29 @@
+{
+  "name": "node-red-contrib-lowercase",
+  "version": "1.0.0",
+  "description": "Convert into lowercase",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "naode-red" : {
+       "nodes": {
+           "lower-node": "node.js"
+        }
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashimoh/node-red-contrib-lowercase.git"
+  },
+  "keywords": [
+    "node-red",
+    "lowercase",
+    "hashimoh"
+  ],
+  "author": "hashimoh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hashimoh/node-red-contrib-lowercase/issues"
+  },
+  "homepage": "https://github.com/hashimoh/node-red-contrib-lowercase#readme"
+}
